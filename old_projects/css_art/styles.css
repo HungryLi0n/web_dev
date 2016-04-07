@@ -1,0 +1,12 @@
+body{
+	background-color: #1f004d
+
+}
+
+#moon {
+	border-radius: 50%;
+	width: 250px;
+	height: 250px; 
+	/* width and height can be anything, as long as they're equal */
+	background-color: #ffff66;
+}
